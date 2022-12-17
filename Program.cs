@@ -21,7 +21,7 @@ namespace project
                         Console.WriteLine("3.Multiplication"); 
                         Console.WriteLine("4.Division");
                         number = Convert.ToInt16(Console.ReadLine());
-
+//ghndtn
                         Console.Write("First digit:");
                         a = Convert.ToDouble(Console.ReadLine());
                         Console.Write("Second digit:");
